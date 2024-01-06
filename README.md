@@ -8,6 +8,8 @@ G.R.A.C.E./
 ├── tests/
 │   ├── __init__.py
 ├── main.py
+├── config.json
+├── requirement.txt
 ├── setup.py
 └── README.md
 ```
